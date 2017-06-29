@@ -1,0 +1,12 @@
+[submodule "log"]
+	path = log
+	url = https://github.com/houwentaoff/log.git
+[submodule "libgpio"]
+	path = libgpio
+	url = https://github.com/houwentaoff/libgpio.git
+[submodule "kfifo"]
+	path = kfifo
+	url = https://github.com/houwentaoff/kfifo.git
+[submodule "scheduleDelayedTask"]
+	path = scheduleDelayedTask
+	url = https://github.com/houwentaoff/scheduleDelayedTask.git
